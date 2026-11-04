@@ -3,7 +3,7 @@ My first repository
 
 My favorite series/movies
 1. **Avengers**
-[Avengers]([https://www.example.com](https://sl.bing.net/ggZlEBC0u5I))
+[Avengers]((https://sl.bing.net/ggZlEBC0u5I))
 2. **Encatadia**
 [Encatadia](https://sl.bing.net/hZaq33nUCMC)
 3. **Superman**
